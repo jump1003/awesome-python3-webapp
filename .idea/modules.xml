@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://F:/GitHub/ImageKmeans-master/.idea/ImageKmeans-master.iml" filepath="F:/GitHub/ImageKmeans-master/.idea/ImageKmeans-master.iml" />
       <module fileurl="file://F:/Python_study/.idea/Python_study.iml" filepath="F:/Python_study/.idea/Python_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" filepath="$PROJECT_DIR$/.idea/awesome-python3-webapp.iml" />
+      <module fileurl="file://F:/GitHub/word_cloud-master/.idea/word_cloud-master.iml" filepath="F:/GitHub/word_cloud-master/.idea/word_cloud-master.iml" />
     </modules>
   </component>
 </project>

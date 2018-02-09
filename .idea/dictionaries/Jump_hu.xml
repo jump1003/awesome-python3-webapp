@@ -1,3 +1,27 @@
 <component name="ProjectDictionaryState">
-  <dictionary name="Jump hu" />
+  <dictionary name="Jump hu">
+    <words>
+      <w>clusterid</w>
+      <w>colcnt</w>
+      <w>coments</w>
+      <w>dataset</w>
+      <w>dest</w>
+      <w>getdata</w>
+      <w>getimagedir</w>
+      <w>imagedir</w>
+      <w>imageluster</w>
+      <w>imagesdata</w>
+      <w>imagesdir</w>
+      <w>imagesfile</w>
+      <w>lsum</w>
+      <w>lvector</w>
+      <w>ndarr</w>
+      <w>oneimage</w>
+      <w>rowcnt</w>
+      <w>shapr</w>
+      <w>srcdir</w>
+      <w>txtdir</w>
+      <w>wordcloud</w>
+    </words>
+  </dictionary>
 </component>
