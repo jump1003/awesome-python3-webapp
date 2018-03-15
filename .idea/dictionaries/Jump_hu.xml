@@ -1,11 +1,18 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Jump hu">
     <words>
+      <w>blit</w>
+      <w>blitme</w>
+      <w>centerx</w>
       <w>clusterid</w>
       <w>colcnt</w>
       <w>coments</w>
+      <w>comos</w>
+      <w>counturl</w>
       <w>dataset</w>
+      <w>datasource</w>
       <w>dest</w>
+      <w>gatxw</w>
       <w>getdata</w>
       <w>getimagedir</w>
       <w>imagedir</w>
@@ -13,15 +20,28 @@
       <w>imagesdata</w>
       <w>imagesdir</w>
       <w>imagesfile</w>
+      <w>imgl</w>
+      <w>keydown</w>
+      <w>keyup</w>
       <w>lsum</w>
       <w>lvector</w>
+      <w>mtjj</w>
+      <w>myfont</w>
       <w>ndarr</w>
+      <w>newsary</w>
+      <w>newsdetails</w>
+      <w>newsid</w>
+      <w>newsurl</w>
       <w>oneimage</w>
+      <w>pygame</w>
+      <w>ress</w>
       <w>rowcnt</w>
       <w>shapr</w>
+      <w>shtml</w>
       <w>srcdir</w>
       <w>txtdir</w>
       <w>wordcloud</w>
+      <w>xlsx</w>
     </words>
   </dictionary>
 </component>
